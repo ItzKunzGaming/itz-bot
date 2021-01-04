@@ -54,4 +54,4 @@ ket : ✅ : aktif
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ## DONASI
-* Gopay : 081211471363 Afif Rais 
+* [Click Me!](https://github.com/ItzKunzGaming/DONATE-HERE)
