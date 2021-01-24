@@ -18,8 +18,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > apt update && apt upgrade
 > git clone https://github.com/ItzKunzGaming/itz-bot
 > cd itz-bot
-> npm i -g cwebp
-> npm i -g ytdl
+> npm i -g cwebp && npm i -g ytdl
+> npm i && npm i got
 > bash install.sh
 > node index.js
 ```
@@ -45,7 +45,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 |       ✅       | QURAN                             |
 |       ✅       | KAMING SUN                        |
 
-ket : ✅ : aktif
+* ```KETERANGAN BOT : MAINTENANCE```
 
 
 
@@ -54,4 +54,4 @@ ket : ✅ : aktif
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ## DONASI
-* [Click Me!](https://github.com/ItzKunzGaming/DONATE-HERE)
+* [`Click Me!`](https://github.com/ItzKunzGaming/DONATE-HERE)
