@@ -690,7 +690,7 @@ if (text.includes("!alay")){
 
 
 
-
+// Command Kapankah Comingsoon
 
 
 
